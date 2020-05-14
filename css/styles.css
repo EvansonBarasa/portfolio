@@ -10,3 +10,9 @@ body {
   background-position: center center;
   background-attachment: fixed;
 }
+
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: yellow
+}
