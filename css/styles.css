@@ -38,6 +38,7 @@ body {
     white-space: normal;
     float: none;
     outline: 0;
+    text-decoration-color: #463CDE;
   }
 
 .sidebar a:hover{
