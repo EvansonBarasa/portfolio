@@ -47,7 +47,8 @@ body {
 
 .rTable {
    display: table;
-   width: 100%;
+   width: 60%;
+   margin: auto;
 }
 .rTableRow {
    display: table-row;
@@ -58,7 +59,7 @@ body {
 }
 .rTableCell, .rTableHead {
    display: table-cell;
-   padding: 3px 10px;
+   padding: 2px 3px;
    border: 1px solid #FFC300;
 }
 .rTableHeading {
