@@ -3,6 +3,11 @@
   text-align: center;
 }
 
+.nameul {
+  color: #FFC300;
+  text-align: left;
+}
+
 body {
   background-image: url("../images/programming.jpeg");
   background-repeat: no-repeat;
