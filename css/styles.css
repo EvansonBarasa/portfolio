@@ -1,5 +1,6 @@
 .name {
   color: #FFC300;
+  text-align: center;
 }
 
 body {
@@ -9,10 +10,21 @@ body {
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
+
 }
 
 .sidebar {
-  width: 30%;
-  float: left;
-  background-color: yellow
+  height: 100%;
+  width: 20%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+  background-color: #FFC300
+}
+
+.sidebar a:hover{
+  color:#463CDE;
 }
