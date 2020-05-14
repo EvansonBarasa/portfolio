@@ -1,3 +1,8 @@
-.name{
-  color: #33FFF3
+.name {
+  color: #33FFF3;
+}
+
+body {
+  background-image: url("images/programming.jpeg");
+  background-color: #530D19;
 }
