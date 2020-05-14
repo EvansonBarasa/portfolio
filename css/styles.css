@@ -1,8 +1,12 @@
 .name {
-  color: #33FFF3;
+  color: #FFC300;
 }
 
 body {
-  background-image: url("images/programming.jpeg");
-  background-color: #530D19;
+  background-image: url("../images/programming.jpeg");
+  background-repeat: no-repeat;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
 }
